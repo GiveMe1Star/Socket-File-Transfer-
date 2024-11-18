@@ -1,0 +1,20 @@
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\bin\Debug\file transfer.exe
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\bin\Debug\file transfer.pdb
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.csproj.AssemblyReference.cache
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\Main.resources
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.csproj.GenerateResource.cache
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.csproj.CoreCompileInputs.cache
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.exe
+C:\Users\Minh Cuong\Downloads\Socket-File-Transfer-master\Socket-File-Transfer-master\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\obj\Debug\file transfer.csproj.AssemblyReference.cache
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\obj\Debug\Main.resources
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\obj\Debug\file_transfer.Properties.Resources.resources
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\obj\Debug\file transfer.csproj.GenerateResource.cache
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\obj\Debug\file transfer.csproj.CoreCompileInputs.cache
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\obj\Debug\file transfer.exe
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\obj\Debug\file transfer.pdb
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\bin\Debug\file transfer.exe.config
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\bin\Debug\file transfer.exe
+C:\Users\Minh Cuong\Documents\Socket-File-Transfer\file transfer\bin\Debug\file transfer.pdb
